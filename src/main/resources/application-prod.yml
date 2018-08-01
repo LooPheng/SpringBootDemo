@@ -1,0 +1,7 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /lf
+person:
+  age: 18
+  sex: 男

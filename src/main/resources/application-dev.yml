@@ -1,0 +1,14 @@
+server:
+  port: 8086
+  servlet:
+    context-path: /lf
+spring:
+  thymeleaf:
+      cache: true
+    devtools:
+      restart:
+        enabled: true
+        additional-paths: src/main/java
+person:
+  age: 18
+  sex: 男
